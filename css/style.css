@@ -1,0 +1,90 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+p{ 
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-link {
+    color: #20201f;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link:hover {
+    color: #852cf5;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1 0 auto;
+}
+
+.bg_slider {
+    background-color: #f6f6f6;
+}
+
+footer {
+    background-color: #20201f;
+}
+
+.footer_desc {
+    color: #d1d1d1;
+}
+
+.card-title {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.fa-solid {
+    color: #852cf5;
+}
+
+.light-color {
+    color: #a3a3a3;
+}
+
+.about_formss {
+    font-size: 14px;
+}
+
+.about_links {
+    font-size: 20px;
+}
+
+.navbar-text {
+    color: #20201f;
+}
+
+
+.about {
+    width: 700px;
+}
+
+.advantages {
+    border-right: 1px solid #dbdbdb;
+    border-left: 1px solid #dbdbdb;
+}
+

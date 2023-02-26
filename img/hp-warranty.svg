@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <path stroke="#1551E5" stroke-linejoin="round" stroke-width="1.5" d="M16.286 14.929L16.286 19 0 19 0 0 16.286 0 16.286 7.69" transform="translate(-1338 -7235) translate(180 7210) translate(1134) translate(24 25) translate(22 11)"/>
+                            <g stroke="#FF0016" stroke-width="1.5">
+                                <path d="M0.452 3.223L3.676 6.446 10.767 0" transform="translate(-1338 -7235) translate(180 7210) translate(1134) translate(24 25) translate(22 11) translate(8.143 9.048)"/>
+                            </g>
+                            <path fill="#B5CAFF" d="M2.714 2.714L13.571 2.714 13.571 6.333 2.714 6.333z" transform="translate(-1338 -7235) translate(180 7210) translate(1134) translate(24 25) translate(22 11) matrix(-1 0 0 1 16.286 0)"/>
+                        </g>
+                        <g>
+                            <path fill="#B5CAFF" d="M4.148 5.097L6.272 5.123 7.556 5.958 17.828 5.679 18.014 15.097 4.094 15.097z" transform="translate(-1338 -7235) translate(180 7210) translate(1134) translate(24 25) translate(11 36) matrix(-1 0 0 1 22.109 0)"/>
+                            <g stroke="#1551E5" stroke-linejoin="round" stroke-width="1.5">
+                                <g>
+                                    <path d="M33.572 6.42L33.572 15.014 18.833 15.014 18.833 0" transform="translate(-1338 -7235) translate(180 7210) translate(1134) translate(24 25) translate(11 36)"/>
+                                    <path d="M18.833 0L33.572 0 37.667 6.551 22.928 6.551zM4.094 0L18.833 0 18.833 15.014 4.094 15.014 4.094 6.848" transform="translate(-1338 -7235) translate(180 7210) translate(1134) translate(24 25) translate(11 36)"/>
+                                    <path d="M0 0L14.739 0 18.833 6.551 4.094 6.551z" transform="translate(-1338 -7235) translate(180 7210) translate(1134) translate(24 25) translate(11 36) matrix(-1 0 0 1 18.833 0)"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
